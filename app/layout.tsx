@@ -26,7 +26,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: "Hire Cursor AI Developers | CursorCoders.ai",
-    description: "The world's leading Cursor AI dev team. Build 3× faster. Same-week start.",
+    description: "The world's leading Cursor AI dev team. Build 3X faster. Same-week start.",
     url: "https://cursorcoders.ai",
     siteName: "Cursor Coders",
     images: [
@@ -41,9 +41,9 @@ export const metadata: Metadata = {
     type: "website",
   },
   icons: {
-    icon: "/logo.webp",
-    shortcut: "/logo.webp",
-    apple: "/logo.webp",
+    icon: "/icon.png",
+    shortcut: "/icon.png",
+    apple: "/icon.png",
   },
 }
 
